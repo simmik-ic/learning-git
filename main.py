@@ -2,7 +2,7 @@ for i in range(0,5):
     print("Uranus")
 print("A znasz może inne planety układu słonecznego?")
 
-num = 10
+num = 29
 fibonacci = [1]
 
 while len(fibonacci)<num:
@@ -10,3 +10,4 @@ while len(fibonacci)<num:
 print(fibonacci)
 
 print("Ile to jeszcze będzie trwać?")
+print("To już blisko końca!")
